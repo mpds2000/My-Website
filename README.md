@@ -1,4 +1,5 @@
 # My-Website
 My Resume Website
-Link to my website : shreyamyportfolio.netlify.app
+Link to my website : 
+Paste this in your browser->>   shreyamyportfolio.netlify.app
 
